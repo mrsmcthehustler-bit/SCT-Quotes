@@ -1,0 +1,6 @@
+{
+  "name": "SCT Quotes",
+  "description": "Institutional trading signal and market intelligence terminal powered by the Biquote API, Forex Factory Economic Calendar, and SCT Theory (EMA 9/21, Asian Range, PDH/PDL, and Fibonacci levels).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

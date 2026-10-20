@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SCT Quotes</string>
+    <string name="title_signals">Trading Signals</string>
+    <string name="title_markets">Markets</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_movers">Top Movers</string>
+    <string name="title_watchlist">Watchlist</string>
+    <string name="title_calculator">Risk Calc</string>
+    <string name="title_timezone">Time Zone</string>
+    <string name="filter_all">All</string>
+    <string name="filter_crypto">Crypto</string>
+    <string name="filter_forex">Forex</string>
+    <string name="filter_metals">Metals</string>
+    <string name="filter_indices">Indices</string>
+    <string name="status_live">Live</string>
+    <string name="status_connecting">Connecting</string>
+    <string name="status_cached">Cached</string>
+    <string name="refresh_data">Refresh</string>
+    <string name="search_hint">Search symbol (e.g. BTC, EUR, XAU)…</string>
+</resources>
