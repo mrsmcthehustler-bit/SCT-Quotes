@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: SCT Quotes
+        working-directory: SCTQuotes
 
     steps:
     - name: Checkout project
